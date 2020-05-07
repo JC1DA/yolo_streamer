@@ -1,0 +1,5 @@
+tensorflow-gpu==1.14
+ffmpeg-python
+streamlink
+opencv-python
+numpy
